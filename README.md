@@ -1,5 +1,5 @@
 # 12V DC to 220V AC Inverter
-
+![Inverter Setup](inverter.jpg)
 
 Designed and implemented a DC–AC inverter converting 12V battery input to 220V AC for low-power AC loads.
 
